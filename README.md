@@ -2,15 +2,26 @@
 
 <!--
 **Sandip-Maity-2023/Sandip-Maity-2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hey there! I'm sandip. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &nbsp; I’m pursuing B.Tech Computer science & Engineering.
+- 🎓 &nbsp; Exploring new technologies and developing software solutions and working on Inovative projects.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security,Artificial Intelligence,Machine learning and Internet of Things.
+- ✍️ &nbsp; Watching movies,playing games like chess,badminton,volleyball,
+- ☕ &nbsp; Be reason of someone smiles.....start working with a cup of coffee..  
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | C++| C |HTML
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | GitHub | Git | C LION | Dev c++
+</br>
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://github.com/Sandip-Maity-2023" width="50" /></a>
+</html>
+
