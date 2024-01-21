@@ -1,6 +1,3 @@
-### Hi there 👋
-<!--
-**Sandip-Maity-2023/Sandip-Maity-2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h2> Hey there! I'm sandip. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -23,4 +20,3 @@
 <p align="center">
 &nbsp; <a href="https://github.com/Sandip-Maity-2023" width="50" /></a>
 </html>
-
