@@ -1,8 +1,7 @@
 <h2> Hey there! I'm sandip. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
-
+<h3> 👨🏻‍💻 About Me </h3><a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 - 🔭 &nbsp; I’m pursuing B.Tech Computer science & Engineering.
 - 🎓 &nbsp; Exploring new technologies and developing software solutions and working on Inovative projects.
 - 🌱 &nbsp; Enthusiast in cyber Security,Artificial Intelligence,Machine learning and Internet of Things.
