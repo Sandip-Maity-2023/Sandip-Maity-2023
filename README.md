@@ -1,7 +1,7 @@
 <h2> Hey there! I'm sandip. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3><a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+<h3> 👨🏻‍💻 About Me </h3>
 - 🔭 &nbsp; I’m pursuing B.Tech Computer science & Engineering.
 - 🎓 &nbsp; Exploring new technologies and developing software solutions and working on Inovative projects.
 - 🌱 &nbsp; Enthusiast in cyber Security,Artificial Intelligence,Machine learning and Internet of Things.
@@ -9,7 +9,7 @@
 - ☕ &nbsp; Be reason of someone smiles.....start working with a cup of coffee..  
 
 <h3>🛠 Tech Stack</h3>
-
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 - 💻 &nbsp; Python | C++| C |HTML
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | GitHub | Git | C LION | Dev c++|PyCharm
 </br>
