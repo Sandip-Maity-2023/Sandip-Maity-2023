@@ -9,8 +9,8 @@
 - ☕ &nbsp; Be reason of someone smiles.....start working with a cup of coffee..<br>  
 
 <h3>🛠 Tech Stack</h3><br>
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
-- 💻 &nbsp; Python | C++| C |HTML
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a><br></br>
+- 💻 &nbsp; Python | C++| C |HTML<br></br>
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | GitHub | Git | C LION | Dev c++|PyCharm
 </br>
 <h3> 🤝🏻 Connect with Me </h3>
