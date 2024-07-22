@@ -1,8 +1,8 @@
 <h2> Hey there! I'm sandip. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
-- 🔭 &nbsp; I’m pursuing B.Tech Computer science & Engineering.<br>
+- 🔭 &nbsp; I’m pursuing B.Tech CSE'27.<br>
 - 🎓 &nbsp; Exploring new technologies and developing software solutions and working on Inovative projects.<br>
 - 🌱 &nbsp; Enthusiast in cyber Security,Artificial Intelligence,Machine learning and Internet of Things.<br>
 - ✍️ &nbsp; Watching movies,playing games like chess,badminton,volleyball.<br>
@@ -10,8 +10,8 @@
 
 <h3>🛠 Tech Stack</h3><br>
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="180" /></a><br></br>
-- 💻 &nbsp; Python | C++| C |JavaScript|<br></br>
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | GitHub | Git | C LION | Dev c++|Intellij IDE| Webstrom<br>
+- 💻 &nbsp; Python | C++ | C | Html | Css | JavaScript |<br></br>
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio Code | GitHub | Git | C LION | Dev c++|Intellij IDE| Webstrom |<br>
 </br>
 <h3> 🤝🏻 Connect with Me </h3>
 
