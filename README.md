@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3><br>
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="180" /></a><br></br>
 - 💻 &nbsp; Python | C++ | C | HTML | CSS | JavaScript |<br></br>
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio Code | GitHub | Git | C LION | Dev C++|Intellij IDE| Webstrom |<br>
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio Code | GitHub | Git | C LION | Dev C++| Intellij IDE| Webstrom |<br>
 </br>
 <h3> 🤝🏻 Connect with Me </h3>
 
