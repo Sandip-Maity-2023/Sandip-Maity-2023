@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Exploring new technologies and developing software solutions to real world problems and working on Inovative projects.<br>
 - 🌱 &nbsp; Enthusiast in cyber Security,Artificial Intelligence,Machine learning and Internet of Things,BlockChain,Data Analytics.<br>
 - ✍️ &nbsp; Travelling & Exloring sights,Watching movies,playing games like chess,badminton,volleyball.<br>
-- ☕ &nbsp; Be reason of someone smiles.....start working with a cup of coffee..<br>  
+- ☕ &nbsp; Be reason of someone smiles.....Let's connect,contribute,Learn & start working with a cup of coffee..<br>  
 
 <h3>🛠 Tech Stack</h3><br>
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="180" /></a><br></br>
