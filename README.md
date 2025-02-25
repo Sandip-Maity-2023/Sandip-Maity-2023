@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 - 🔭 &nbsp; I’m pursuing B.Tech CSE'27.<br>
 - 🎓 &nbsp; Exploring new technologies and developing software solutions to real world problems and working on Inovative projects.<br>
-- 🌱 &nbsp; Enthusiast in cyber Security,Artificial Intelligence,Machine learning and Internet of Things,BlockChain,Data Analytics.<br>
-- ✍️ &nbsp; Travelling & Exloring sights,Watching movies,playing games like chess,badminton,volleyball.<br>
+- 🌱 &nbsp; Enthusiast in CS,AI,ML,IOT,BC,DA.<br>
+- ✍️ &nbsp; Travelling & Exloring,Watching movies,playing games(chess,badminton,volleyball.....)<br>
 - ☕ &nbsp; Be reason of someone smiles.....Let's connect,contribute,Learn & start working with a cup of coffee..<br>  
 
 <h3>🛠 Tech Stack</h3><br>
