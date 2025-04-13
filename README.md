@@ -19,7 +19,7 @@ create aja<h2> Hey there! I'm Sandip <img src="https://github.com/souvikguria98/
   <br></br>
   <p align="center">
     
-<a href="[https://docs.google.com/document/d/1o91YB3dWz_nNBDnrD0Cav4KfBg0REQiM/edit?usp=sharing&ouid=107367049391689331932&rtpof=true&sd=true](https://drive.google.com/file/d/1NfNLxQ6wRsAkQkElCaECaiynmcWF9LG1/view?usp=drivesdk)" target="_blank">
+<a href="https://drive.google.com/file/d/1NfNLxQ6wRsAkQkElCaECaiynmcWF9LG1/view?usp=drivesdk" target="_blank">
   <img src="https://img.shields.io/badge/Resume-%230077B5.svg?&style=flat-square&logo=resume&logoColor=white" alt="Resume Logo" style="width: 100px; height: 50px;">
 </a>
 
@@ -29,4 +29,4 @@ create aja<h2> Hey there! I'm Sandip <img src="https://github.com/souvikguria98/
 <a href="https://leetcode.com/Sandip-Maity-2023/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-181717?style=flat-square&logo=leetcode" alt="LeetCode"></a>
 </p>
 
-</html>  can you edit when i click on resume button it redirect to https://drive.google.com/file/d/1NfNLxQ6wRsAkQkElCaECaiynmcWF9LG1/view?usp=drivesdk
+</html>  
