@@ -19,7 +19,7 @@
   <br></br>
   <p align="center">
     
-<a href="https://docs.google.com/document/d/1o91YB3dWz_nNBDnrD0Cav4KfBg0REQiM/edit?usp=sharing&ouid=107367049391689331932&rtpof=true&sd=true" target="_blank">
+<a href="[https://docs.google.com/document/d/1o91YB3dWz_nNBDnrD0Cav4KfBg0REQiM/edit?usp=sharing&ouid=107367049391689331932&rtpof=true&sd=true](https://drive.google.com/file/d/1NfNLxQ6wRsAkQkElCaECaiynmcWF9LG1/view?usp=drivesdk)" target="_blank">
   <img src="https://img.shields.io/badge/Resume-%230077B5.svg?&style=flat-square&logo=resume&logoColor=white" alt="Resume Logo" style="width: 100px; height: 50px;">
 </a>
 
