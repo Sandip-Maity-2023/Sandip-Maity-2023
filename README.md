@@ -1,4 +1,4 @@
-create aja<h2> Hey there! I'm Sandip <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Sandip <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -20,7 +20,7 @@ create aja<h2> Hey there! I'm Sandip <img src="https://github.com/souvikguria98/
   <p align="center">
     
 <a href="https://drive.google.com/file/d/1NfNLxQ6wRsAkQkElCaECaiynmcWF9LG1/view?usp=drivesdk" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-%230077B5.svg?&style=flat-square&logo=resume&logoColor=white" alt="Resume Logo" style="width: 100px; height: 50px;">
+  <img src="https://img.shields.io/badge/Resume-%230077B5.svg?&style=flat-square&logo=resume&logoColor=white" alt="Resume Logo" style="width: 80px; height: 40px;">
 </a>
 
 <a href="https://outlook.office365.com/mail/" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
