@@ -25,7 +25,7 @@
 
 <a href="https://outlook.office365.com/mail/" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/sandip-maity-243537292/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/12sandip125" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://hackerone.com/sandip-maity-2023?type=user" target="_blank"><img src="https://img.shields.io/badge/-Hackerone-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://leetcode.com/Sandip-Maity-2023/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-181717?style=flat-square&logo=leetcode" alt="LeetCode"></a>
 </p>
 
